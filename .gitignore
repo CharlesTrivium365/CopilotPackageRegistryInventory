@@ -1,0 +1,21 @@
+# Rapports générés
+*.html
+
+# Journaux
+*.log
+
+# Modules et dépendances locales
+Modules/
+
+# Artefacts de test Pester
+testResults*.xml
+coverage*.xml
+
+# Éditeurs
+.vscode/
+.vs/
+*.user
+
+# Fichiers système
+Thumbs.db
+.DS_Store
